@@ -120,6 +120,11 @@ A smart Research Agent that leverages NLP and RAG to:
 - [Semantic Scholar](https://www.semanticscholar.org)
 
 ---
+## ⚖️ License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rajkumarr06/)
 
