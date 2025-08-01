@@ -110,6 +110,20 @@ A smart Research Agent that leverages NLP and RAG to:
 - 💬 AI-guided Review & Feedback Generator  
 
 ---
+## 🖼️ Screenshots
+
+### 🔹 API Architecture
+![API Architecture](images/api.png)
+
+### 🔹 Deployment & Preview
+![Deployment](images/deployed.png)
+
+### 🔹 Setup & Configuration
+![Setup](images/setup.png)
+
+### 🔹 Tools Used
+![Tools Used](images/tools.png)
+
 
 ## 🔗 Useful Links
 
