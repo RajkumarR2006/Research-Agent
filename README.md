@@ -113,16 +113,16 @@ A smart Research Agent that leverages NLP and RAG to:
 ## 🖼️ Screenshots
 
 ### 🔹 API Architecture
-![API Architecture](images/api.png)
+![API Architecture](api.png)
 
 ### 🔹 Deployment & Preview
-![Deployment](images/deployed.png)
+![Deployment](deployed.png)
 
 ### 🔹 Setup & Configuration
-![Setup](images/setup.png)
+![Setup](setup.png)
 
 ### 🔹 Tools Used
-![Tools Used](images/tools.png)
+![Tools Used](tools.png)
 
 
 ## 🔗 Useful Links
